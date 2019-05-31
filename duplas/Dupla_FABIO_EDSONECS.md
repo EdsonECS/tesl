@@ -56,3 +56,5 @@ Item2:
 Falta documentação, instalação e contribuição traduzida para o português;
 Falta tradução do manual do usuário "Como usar o Django"
 
+
+
